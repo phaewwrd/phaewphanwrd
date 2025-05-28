@@ -22,9 +22,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Praew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praewphan&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praewphan&layout=compact&theme=tokyonight)
-
----
